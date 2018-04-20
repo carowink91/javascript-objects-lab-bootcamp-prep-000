@@ -1,6 +1,5 @@
 function Objects () {
   var recipes = {
-    key: value
   }
 }
 
