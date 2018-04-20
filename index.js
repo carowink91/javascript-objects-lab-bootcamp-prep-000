@@ -1,3 +1,7 @@
+var recipes = {
+  
+}
+
 function Objects () {
   var recipes = {
   }
